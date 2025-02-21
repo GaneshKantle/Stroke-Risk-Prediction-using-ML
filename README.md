@@ -7,11 +7,11 @@ This project aims to assist in early stroke detection by analyzing key health fa
 
 ## Features
 - **Machine Learning Models**: Uses five models
-    -- **K-Nearest Neighbors (KNN)**
-    -- **Logistic Regression (LR)**
-    --**Random Forest (RFT)**
-    --**Decision Tree (DT)**
-  --**Support Vector Machine (SVM)** to improve prediction accuracy.
+    - **K-Nearest Neighbors (KNN)**
+    - **Logistic Regression (LR)**
+    - **Random Forest (RFT)**
+    - **Decision Tree (DT)**
+    - **Support Vector Machine (SVM)** to improve prediction accuracy.
 - **Pre-trained Models**: Models are trained and saved as `.pkl` files for quick inference.
 - **Dataset Integration**: The system is trained on stroke-related medical datasets.
 - **User-Friendly Interface**: Users can enter their details and get a stroke risk assessment.
