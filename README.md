@@ -64,7 +64,7 @@ python app.py
 ### 4. Access the Web Application
 Once the server is running, open your browser and go to:
 ```
-http://127.0.0.1:3000
+http://127.0.0.1:3000/
 ```
 
 ## Usage
@@ -75,11 +75,11 @@ http://127.0.0.1:3000
 ## Model Performance
 | Model | Accuracy |
 |--------|-----------|
-| Logistic Regression (LR) | XX% |
-| K-Nearest Neighbors (KNN) | XX% |
-| Random Forest (RFT) | XX% |
-| Decision Tree (DT) | XX% |
-| Support Vector Machine (SVM) | XX% |
+| Logistic Regression (LR) | 94.61% |
+| K-Nearest Neighbors (KNN) | 94.6% |
+| Random Forest (RFT) | 94.22% |
+| Decision Tree (DT) | 90.99% |
+| Support Vector Machine (SVM) | 94.71% |
 
 ## Example Output
 ```
@@ -100,13 +100,13 @@ Output:
 ```
 
 ## Screenshots
-###Home Page
+### Home Page
 ![Home Page](https://github.com/user-attachments/assets/22369f71-ce4f-4c10-a7ef-5c2a7f960b9d)
-###Input Box
+### Input Box
 ![Input Box](https://github.com/user-attachments/assets/bcf499f5-9580-4638-855d-87714832d6a4)
-###If it's Risk
+### If it's Risk
 ![Risk](https://github.com/user-attachments/assets/3bfbdd1b-4dd7-4c92-a555-db28fd108961)
-###If it's not Risk
+### If it's not Risk
 ![No Risk](https://github.com/user-attachments/assets/7752bfcd-f307-46bf-a7a5-d2546bbcf38b)
 
 
