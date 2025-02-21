@@ -31,6 +31,10 @@ The dataset used for training consists of the following features:
 - **BMI**
 - **Smoking Status** (0 = Unknown, 1 = Formerly Smoked, 2 = Never Smoked, 3 = Smokes)
 
+You can download the dataset from **Kaggle**:  
+[Stroke Risk Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+
 ## Project Structure
 ```
 Stroke-Prediction-System/
@@ -100,6 +104,8 @@ Output:
 ```
 
 ## Screenshots
+### Attributes Used
+![Attributes](https://github.com/user-attachments/assets/19d6685a-64d1-4fef-b959-570cd559a4e9)
 ### Home Page
 ![Home Page](https://github.com/user-attachments/assets/22369f71-ce4f-4c10-a7ef-5c2a7f960b9d)
 ### Input Box
