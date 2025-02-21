@@ -6,7 +6,12 @@ The **Stroke Prediction System** is a machine learning-based web application tha
 This project aims to assist in early stroke detection by analyzing key health factors such as age, BMI, smoking status, and medical history.
 
 ## Features
-- **Multiple ML Models**: Uses **K-Nearest Neighbors (KNN), Logistic Regression (LR), Random Forest (RFT), Decision Tree (DT), and Support Vector Machine (SVM)** to improve prediction accuracy.
+- **Machine Learning Models**: Uses five models
+    -- **K-Nearest Neighbors (KNN)**
+    -- **Logistic Regression (LR)**
+    --**Random Forest (RFT)**
+    --**Decision Tree (DT)**
+  --**Support Vector Machine (SVM)** to improve prediction accuracy.
 - **Pre-trained Models**: Models are trained and saved as `.pkl` files for quick inference.
 - **Dataset Integration**: The system is trained on stroke-related medical datasets.
 - **User-Friendly Interface**: Users can enter their details and get a stroke risk assessment.
