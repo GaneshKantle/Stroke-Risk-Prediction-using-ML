@@ -1,7 +1,7 @@
 # Stroke Risk Prediction System using ML
 
 ## Overview
-The **Stroke Prediction System** is a machine learning-based web application that predicts the risk of stroke based on user-provided health details. The system utilizes five different machine learning models to enhance accuracy and provides a user-friendly interface for input submission. 
+The **Stroke Prediction System** is a machine learning-based web application that predicts the risk of stroke based on user-provided health details. The system utilizes five machine-learning models to enhance accuracy and provides a user-friendly interface for input submission. 
 
 This project aims to assist in early stroke detection by analyzing key health factors such as age, BMI, smoking status, and medical history.
 
@@ -9,14 +9,14 @@ This project aims to assist in early stroke detection by analyzing key health fa
 - **Multiple ML Models**: Uses **K-Nearest Neighbors (KNN), Logistic Regression (LR), Random Forest (RFT), Decision Tree (DT), and Support Vector Machine (SVM)** to improve prediction accuracy.
 - **Pre-trained Models**: Models are trained and saved as `.pkl` files for quick inference.
 - **Dataset Integration**: The system is trained on stroke-related medical datasets.
-- **User-Friendly Interface**: Allows users to enter their details and get a stroke risk assessment.
+- **User-Friendly Interface**: Users can enter their details and get a stroke risk assessment.
 - **Performance Evaluation**: Compares multiple models to provide the most accurate results.
 
 ## Tech Stack
 - **Backend**: Python, Flask
 - **Frontend**: HTML, CSS, JavaScript
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
-- **Data Storage**: CSV Dataset
+- **Data Storage**: Kaggle Excel Dataset
 
 ## Dataset
 The dataset used for training consists of the following features:
@@ -34,19 +34,19 @@ The dataset used for training consists of the following features:
 ## Project Structure
 ```
 Stroke-Prediction-System/
-│── models/                     # Pre-trained model files (.pkl)
-│── static/                      # CSS, JS, Images
+│── dataset/                     # Healthcare Excel dataset
+│── models/                      # Pre-trained model files (.pkl), dt.sav
 │── templates/                   # HTML files
-│── dataset/                     # Stroke dataset
 │── app.py                       # Main Flask application
 │── requirements.txt             # Dependencies
+│── stroke risk prediction       # Jupyter Source File
 │── README.md                    # Project Documentation
 ```
 
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ganeshkantle/Stroke-Risk-Prediction-using-ML .git
+git clone https://github.com/ganeshkantle/Stroke-Risk-Prediction-using-ML.git
 cd Stroke-Risk-Prediction-using-ML 
 ```
 
@@ -64,7 +64,7 @@ python app.py
 ### 4. Access the Web Application
 Once the server is running, open your browser and go to:
 ```
-http://127.0.0.1:5000/
+http://127.0.0.1:3000
 ```
 
 ## Usage
@@ -114,8 +114,6 @@ Output:
 ## Contributing
 If you'd like to contribute, please fork the repository and submit a pull request. All contributions are welcome!
 
-## License
-This project is open-source under the **MIT License**.
 
 ## Contact
 For any queries, feel free to reach out:
