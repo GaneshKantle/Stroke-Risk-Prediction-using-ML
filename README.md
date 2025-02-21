@@ -110,10 +110,10 @@ Output:
 ![Home Page](https://github.com/user-attachments/assets/22369f71-ce4f-4c10-a7ef-5c2a7f960b9d)
 ### Input Box
 ![Input Box](https://github.com/user-attachments/assets/bcf499f5-9580-4638-855d-87714832d6a4)
-### If it's Risk
-![Risk](https://github.com/user-attachments/assets/3bfbdd1b-4dd7-4c92-a555-db28fd108961)
-### If it's not Risk
+### No Risk
 ![No Risk](https://github.com/user-attachments/assets/7752bfcd-f307-46bf-a7a5-d2546bbcf38b)
+### Risk
+![Risk](https://github.com/user-attachments/assets/3bfbdd1b-4dd7-4c92-a555-db28fd108961)
 
 
 
