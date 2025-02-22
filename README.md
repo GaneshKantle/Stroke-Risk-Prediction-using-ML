@@ -42,14 +42,29 @@ You can download the dataset from **Kaggle**:
 
 ## Project Structure
 ```
-Stroke-Prediction-System/
-│── dataset/                     # Healthcare Excel dataset
-│── models/                      # Pre-trained model files (.pkl), dt.sav
-│── templates/                   # HTML files
-│── app.py                       # Main Flask application
-│── requirements.txt             # Dependencies
-│── stroke risk prediction       # Jupyter Source File
-│── README.md                    # Project Documentation
+Directory structure:
+└── ganeshkantle-stroke-risk-prediction-using-ml/
+    ├── README.md
+    ├── requirements.txt
+    ├── Files/
+    │   ├── Project PPT.pptx
+    │   └── Project Report.docx
+    ├── Snapshots/
+    └── Stroke Risk Prediction using ML/
+        ├── Readme.md
+        ├── Stroke Prediction using 5 ML Algorthms.ipynb
+        ├── app.py
+        ├── logistic.pkl
+        ├── logistic.sav
+        ├── dataset/
+        │   └── healthcare-dataset-stroke-data.csv
+        ├── models/
+        │   ├── dt.sav
+        │   └── scaler.pkl
+        └── templates/
+            ├── home.html
+            ├── nostroke.html
+            └── stroke.html
 ```
 
 ## Installation
