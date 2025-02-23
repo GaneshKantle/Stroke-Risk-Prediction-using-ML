@@ -143,6 +143,6 @@ If you'd like to contribute, please fork the repository and submit a pull reques
 
 ## Contact
 For any queries, feel free to reach out:
-- **Email:** ganeshkantle@egmail.com
+- **Email:** ganeshkantle@gmail.com
 - **GitHub:** (https://github.com/ganeshkantle)
 - **My Bento:** (https://bento.me/kantle)
