@@ -67,30 +67,6 @@ Directory structure:
             └── stroke.html
 ```
 
-## Installation
-### 1. Clone the Repository
-```bash
-git clone https://github.com/ganeshkantle/Stroke-Risk-Prediction-using-ML.git
-cd Stroke-Risk-Prediction-using-ML 
-```
-
-### 2. Install Dependencies
-Make sure you have Python installed, then run:
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the Application
-```bash
-python app.py
-```
-
-### 4. Access the Web Application
-Once the server is running, open your browser and go to:
-```
-http://127.0.0.1:3000/
-```
-
 ## Usage
 1. **Enter the required details** (Gender, Age, Hypertension, Heart Disease, etc.).
 2. **Click Submit** to get the stroke risk prediction.
@@ -135,6 +111,31 @@ Output:
 ### Risk
 ![Risk](https://github.com/user-attachments/assets/3bfbdd1b-4dd7-4c92-a555-db28fd108961)
 
+
+
+## Installation
+### 1. Clone the Repository
+```bash
+git clone https://github.com/ganeshkantle/Stroke-Risk-Prediction-using-ML.git
+cd Stroke-Risk-Prediction-using-ML 
+```
+
+### 2. Install Dependencies
+Make sure you have Python installed, then run:
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Application
+```bash
+python app.py
+```
+
+### 4. Access the Web Application
+Once the server is running, open your browser and go to:
+```
+http://127.0.0.1:3000/
+```
 
 
 ## Contributing
